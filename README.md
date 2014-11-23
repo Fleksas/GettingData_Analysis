@@ -13,7 +13,7 @@ the course web site:
 
 ## Courwork requirements
 
-The goal is to prepare tidy data that can be used for later analysis. It required to submit: 
+The goal of the assignment is to prepare tidy data that can be used for later analysis. It is required to submit:
 
 * A tidy data set derived from the original data source performing required transformations
 * A link to a Github repository with your script for performing the analysis 
