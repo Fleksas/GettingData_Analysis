@@ -44,4 +44,15 @@ As the end result of the project a run_analysis.R script was created that procud
 
 Instructions of how use the script:
 
+<ol>
+<li>Download "run_analysis.R" file and put it in your working directory </li>
+<li> Open R Console (or RStudio) and run "source("run_analysis.R")" command </li>
+<li> The script will automatically download the data set and unzip it in ./data directory </li>
+<li> The data_tidy.txt with the new tidy dataset will be exported in your working direcotry </li>
+</ol>
+
+## Code Book
+
+The CodeBook.md file explains the transformations performed and the resulting data and variables.
+
 ====================
