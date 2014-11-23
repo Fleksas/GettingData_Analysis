@@ -1,4 +1,4 @@
-# Getting and Cleaning Data
+# Getting and Cleaning Data Coursework
 
 ## Introduction
 
@@ -13,13 +13,11 @@ the course web site:
 
 For each record in the dataset it is provided: 
 
-<ol>
-<li><Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration. </li>
-<li>Triaxial Angular velocity from the gyroscope.  </li>
-<li>A 561-feature vector with time and frequency domain variables.  </li>
-<li>Its activity label.  </li>
-<li>An identifier of the subject who carried out the experiment. </li>
-</ol>
+* Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration. 
+* Triaxial Angular velocity from the gyroscope.  
+* A 561-feature vector with time and frequency domain variables.  
+* Its activity label.  
+* An identifier of the subject who carried out the experiment. 
 
 
 ====================
