@@ -13,7 +13,7 @@ the course web site:
 
 ## Courwork results
 
-The goal of the coursework was to prepare tidy data that can be used for later analysis. The results include:
+The goal of the coursework was to prepare a tidy data that can be used for later analysis. The results include:
 
 * A tidy data set derived from the original data source performing transformations
 * A link to a Github repository with the script for performing the analysis 
@@ -21,15 +21,15 @@ The goal of the coursework was to prepare tidy data that can be used for later a
 
 ## run_analysis.R script
 
-As main result of the project a run_analysis.R script was created that procuded a new tidy data sets with the above-described requirements.
+As main result of the project a run_analysis.R script was created that proces a new tidy data set.
 
-Instructions of how use the script:
+Instructions of how to use the script:
 
 <ol>
-<li>Download "run_analysis.R" file and put it in your working directory </li>
+<li>Download the "run_analysis.R" file and save it in your working directory </li>
 <li> Open R Console (or RStudio) and run "source("run_analysis.R")" command </li>
-<li> The script will automatically download the data set and unzip it in ./data directory </li>
-<li> The data_tidy.txt with the new tidy dataset will be exported in your working direcotry </li>
+<li> The script will automatically download the data set in  a./data directory </li>
+<li> The data_tidy.txt with the new tidy data set will be exported in your working direcotry </li>
 </ol>
 
 ====================
