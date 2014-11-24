@@ -40,5 +40,12 @@ All transformations performed to get a new tidy data set are the following:
 <li>A new independent tidy data set with the average of each variable for each activity and each subject was created  </li>
 </ol>
 
+## Variables
+
+A new tidy data set include sebject ids (30 people in the experiment), actvities (WALKING, SITTING etc.) and measurments data (mean and standard deviation of each measurement). Measurements variables are the results of the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. Please read features_info.txt document of the orginal data set for more information.
+
+
+
+
 
 
