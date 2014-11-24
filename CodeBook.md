@@ -1,4 +1,3 @@
-.
 # CodeBook
 
 This document provides more information about the orginal data set, its variables and all the transofrmations performed to get a new tidy data set.
