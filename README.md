@@ -13,7 +13,7 @@ the course web site:
 
 ## Courwork results
 
-The goal of the coursework were to prepare tidy data that can be used for later analysis. The results include:
+The goal of the coursework was to prepare tidy data that can be used for later analysis. The results include:
 
 * A tidy data set derived from the original data source performing transformations
 * A link to a Github repository with the script for performing the analysis 
