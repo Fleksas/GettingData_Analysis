@@ -29,7 +29,7 @@ Instructions of how to use the script:
 <li>Download the "run_analysis.R" file and save it in your working directory </li>
 <li> Open R Console (or RStudio) and run "source("run_analysis.R")" command </li>
 <li> The script will automatically download the data set in  a./data directory </li>
-<li> The data_tidy.txt with the new tidy data set will be exported in your working direcotry </li>
+<li> The data_tidy.txt with the new tidy data set will be exported in your working directory </li>
 </ol>
 
 ====================
