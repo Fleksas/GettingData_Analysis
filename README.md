@@ -32,4 +32,8 @@ Instructions of how to use the script:
 <li> The data_tidy.txt with the new tidy data set will be exported in your working directory </li>
 </ol>
 
+## CodeBook
+
+The code book provides a more detailed information of the original data set and all the transformations made to get a new tidy data set.
+
 ====================
