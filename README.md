@@ -19,7 +19,7 @@ The goal of the coursework was to prepare tidy data that can be used for later a
 * A link to a Github repository with the script for performing the analysis 
 * A code book that describes the variables, the data, and any transformations called CodeBook.md 
 
-## The run_analysis.R script
+## run_analysis.R script
 
 As main result of the project a run_analysis.R script was created that procuded a new tidy data sets with the above-described requirements.
 
